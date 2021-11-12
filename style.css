@@ -68,15 +68,12 @@ body {
   text-align: center;
 }
 
-/* .transparent {
-opacity: 100%;
-}
-
 h3 {
   font-size: 30px;
   background-color: rgba(0, 0, 0, 0.6);
   font-family: Roborto;
   margin: bottom;
+  width: 45%;
+  color: white;
   border-radius: 8px;
-  padding: 0px 0px px 0px;
 }
