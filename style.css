@@ -18,32 +18,17 @@
   margin-left: auto;
 }
 
-
-
 html,
 body {
   height: auto;
   max-width: 100%;
   overflow-x: hidden;
-  /* omgggg max-width: 100% and over-flow-x: hidden finally got rid of the horizonal scroll and my background image repeating in the subsequent white space!!! so happy haha */
-
   background-image: url("https://images.unsplash.com/photo-1634937081897-4ceb33b36be9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  /* website url [https://www.webfx.com/blog/web-design/responsive-background-image/] incredibly useful here: helped me to add backgroud position, repeat and attachment so that the background fills the whole page and responsively resizes, whilst also making sure the backgroud image doesn't tile. Success!!*/
 }
-
-/* #img-div {
-  border: none;
-  border-radius: 25px;
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
-  width: 80%;
-  height: auto;
-  padding: 50, 50, 50, 50; */
 
 #img-caption {
   color: white;
@@ -56,7 +41,6 @@ body {
   margin-right: auto;
   width: 20%;
   border-radius: 25px;
-  /* it is the width which aloows text and/or images to be centrered - in this case, a width of 500 px has meant that the caption was centered. adding margin left and right to style my caption also contributed, as when i removed both of these, the text was no longer centered. It seems that the text align isnt what is centering my content, as it only centeres the actual text relative to its sentence structure, rather than centering it to be in the middle of my page. */
 }
 
 #tribute-info {
@@ -83,26 +67,14 @@ body {
   font-size: 16px;
   text-align: center;
 }
-/* .transparent {
-  opacity: 100%;
-}
-/* .responsive-text {
-  font-size: calc(1rem + 1vw); } */
 
 h3 {
   font-size: 30px;
   background-color: rgba(0, 0, 0, 0.6);
   font-family: Roborto;
-  /* margin-left: auto;
-  margin-right: auto; */
   margin: bottom;
-  /* i set margin to 0 auto, which allowed the heading to be centered, and still be able to align the text left right or center, which wont affect the text being centered!! yes!*/
   width: 45%;
   color: white;
   border-radius: 8px;
   padding: 0px 0px px 0px;
-  /* text-decoration-style: solid;
-  text-decoration: underline;
-  text-decoration-color: gold;
-  text-decoration-thickness: 2px; */
 }
