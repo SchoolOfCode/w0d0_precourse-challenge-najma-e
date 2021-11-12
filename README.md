@@ -8,6 +8,7 @@ Indeed, the film Hidden Figures have shed light on the true story of three black
 
 This isn’t *only* true for these women, however, but for countless more women, who made great strides in the development of computer science and programming but are not known today for their contributions. This is why I’ve decided to make a tribute page for Ada Lovelace, as I wanted to be a part of showcasing the achievements of this incredible woman, and all she did for the field of computer science.
 
+I've learnt quite a bit creating and styling this webpage, mainly that it takes patience and a whole lot of researching online to create a webpage I am happy with. It is a lot of editing, but as you progress you feel good about how far you've come and what you've learnt, particurlarly the little wins you feel finally understanding and correcting a code, and making an element look exactly as you want it to. It was fustrating at times, but I truly enjoyed the process. Here's to many more!
 
 --w0d0_precourse-challenge-najma-e created by GitHub Classroom--
 
